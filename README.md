@@ -20,11 +20,12 @@ Kelas : TI.22.B1
 ![Screenshot (17)](https://user-images.githubusercontent.com/115474879/196104608-fb54c29d-9650-41f7-953d-4d17248f6891.png)
 
 * Jika sudah ada versi nya, kita bisa langsung melakukan langkah pertama yaitu membuat user name dan email, dengan syntax berikut
-``` git cofig --global user.name "Masukan Nama Anda di sini"
+``` git cofig --global user.name "Masukan Nama Anda di sini" ```
+``` git cofig --global user.email "Masukan email Anda di sini" ```
+![Screenshot (18)](https://user-images.githubusercontent.com/115474879/196109595-c7785f62-3084-4454-ab68-233064b8b936.png)
+
+* Jika sudah terconfigurasi, lakukan creat account di wweb github.com, ikuti langkah2 yang ada untuk memverifikasi email
+![Screenshot (19)](https://user-images.githubusercontent.com/115474879/196109937-b94af6ec-6fa8-424c-924f-c7b4da6f372c.png)
 
 
-
-```
-
-```
 
