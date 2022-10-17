@@ -26,6 +26,17 @@ Kelas : TI.22.B1
 
 * Jika sudah terconfigurasi, lakukan creat account di wweb github.com, ikuti langkah2 yang ada untuk memverifikasi email
 ![Screenshot (19)](https://user-images.githubusercontent.com/115474879/196109937-b94af6ec-6fa8-424c-924f-c7b4da6f372c.png)
+* JIka Sudah maka akan mendapatkan notifikasi email untuk verifikasi.
+* langkah selanjutnya adalah membuat repoistory dengan langkah berikut:
+
+```
+Repository Name : (Silahkan isi nama repository yang diinginkan, seperti contoh saya ingin membuat repository Latihan-VCS-Malik Aziz)
+Description     : (Isi dengan deskripsi atau penjelasan tentang repository Anda)
+Public / Private  : (PIlih salah satu jenis repository akan bisa dilihan sama semua orang atau tidak)
+Add a README.md file : Centang pada bagian ini jika Anda menginginkan file README.md ada di repository Anda
+Add .gitignore    : Merupakan sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git.
+Choose a license  : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat Kemudian tekan tombol Create Repository untuk menyimpan
+```
 
 
 
