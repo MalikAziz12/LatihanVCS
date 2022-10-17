@@ -38,5 +38,13 @@ Add .gitignore    : Merupakan sebuah file yang berisi daftar nama-nama file dan 
 Choose a license  : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat Kemudian tekan tombol Create Repository untuk menyimpan
 ```
 
+![Screenshot (21)](https://user-images.githubusercontent.com/115474879/196150139-2f274bae-84ea-4929-b6f4-575a2176b547.png)
+* create repositorry lalu akan muncul seperti ini :
+![Screenshot (22)](https://user-images.githubusercontent.com/115474879/196150323-d81a5c27-6885-415f-8de6-80b31c1cea76.png)
+
+* Repository selesai, sekarang kita akan copy link repository dan me-remote repository
+![Screenshot (23)](https://user-images.githubusercontent.com/115474879/196150852-ac62adf4-1cb4-427e-b486-d0303a745b35.png)
+
+
 
 
