@@ -16,10 +16,11 @@ Kelas : TI.22.B1
 * Setelah terdownload lakukan instalasi hingga selesai
 ![Screenshot (16)](https://user-images.githubusercontent.com/115474879/196102730-4fa4f228-9ca1-43b9-a658-60ec13713e12.png)
 
-* Setelah Instalasi selesai, lakukan pengecekan versi pada cmd dengan syntax berikut
+* Setelah Instalasi selesai, lakukan pengecekan versi pada cammandprompt dengan syntax berikut
 ![Screenshot (17)](https://user-images.githubusercontent.com/115474879/196104608-fb54c29d-9650-41f7-953d-4d17248f6891.png)
 
-
+* Jika sudah ada versi nya, kita bisa langsung melakukan langkah pertama yaitu membuat user name dan email, dengan syntax berikut
+``` git cofig --global user.name "Masukan Nama Anda di sini"
 
 
 
